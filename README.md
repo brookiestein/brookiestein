@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @brookiestein
-- 👀 I’m interested in software and web development, and computer science.
-- 🌱 I’m currently learning C++ with Ivor Horton Van Weert's C++ 20 from beginning to professional book.
-- 💞️ I’ve looked for whether I can collaborate in the linux kernel's development. I'd love to do that!
+- 👀 I’m really interested in software development, and computer science.
+- 🌱 I’m currently learning C++ and the Qt Framework, and a little bit of Android development with Kotlin.
+- 💞️ I have more knowledge and experience in C and C++, but I'll learn other languages as well.
 - 📫 You can reach me through my email address: this.brayan@proton.me
+- My recent projects:
+  1. ![CheckPatchPanelsAndPorts](https://github.com/brookiestein/CheckPatchPanelsAndPorts)
+  2. ![libvector](https://github.com/brookiestein/libvector)
+  3. ![PerformanceMeasurer](https://github.com/brookiestein/PerformanceMeasurer)
+  4. ![SystemPowerManager (spm)](https://github.com/brookiestein/spm)
 
 <!---
 brookiestein/brookiestein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
