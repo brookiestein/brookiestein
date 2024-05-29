@@ -8,6 +8,7 @@
   2. ![libvector](https://github.com/brookiestein/libvector)
   3. ![PerformanceMeasurer](https://github.com/brookiestein/PerformanceMeasurer)
   4. ![SystemPowerManager (spm)](https://github.com/brookiestein/spm)
+  5. ![wpa_gtk](https://github.com/brookiestein/wpa_gtk)
 
 <!---
 brookiestein/brookiestein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
