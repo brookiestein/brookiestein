@@ -4,11 +4,13 @@
 - 💞️ I have more knowledge and experience in C and C++, but I'll learn other languages as well.
 - 📫 You can reach me through my email address: this.brayan@proton.me
 - My recent projects:
-  1. ![CheckPatchPanelsAndPorts](https://github.com/brookiestein/CheckPatchPanelsAndPorts)
-  2. ![libvector](https://github.com/brookiestein/libvector)
-  3. ![PerformanceMeasurer](https://github.com/brookiestein/PerformanceMeasurer)
-  4. ![SystemPowerManager (spm)](https://github.com/brookiestein/spm)
-  5. ![wpa_gtk](https://github.com/brookiestein/wpa_gtk)
+  1. ![BitMPlayer](https://github.com/brookiestein/BitMPlayer)
+  2. ![FolderPrinter](https://github.com/brookiestein/FolderPrinter)
+  3. ![CheckPatchPanelsAndPorts](https://github.com/brookiestein/CheckPatchPanelsAndPorts)
+  4. ![libvector](https://github.com/brookiestein/libvector)
+  5. ![PerformanceMeasurer](https://github.com/brookiestein/PerformanceMeasurer)
+  6. ![SystemPowerManager (spm)](https://github.com/brookiestein/spm)
+  7. ![wpa_gtk](https://github.com/brookiestein/wpa_gtk)
 
 <!---
 brookiestein/brookiestein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
