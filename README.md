@@ -9,9 +9,10 @@
   3. ![FolderPrinter](https://github.com/brookiestein/FolderPrinter)
   4. ![CheckPatchPanelsAndPorts](https://github.com/brookiestein/CheckPatchPanelsAndPorts)
   5. ![libvector](https://github.com/brookiestein/libvector)
-  6. ![PerformanceMeasurer](https://github.com/brookiestein/PerformanceMeasurer)
-  7. ![SystemPowerManager (spm)](https://github.com/brookiestein/spm)
-  8. ![wpa_gtk](https://github.com/brookiestein/wpa_gtk)
+  6. ![portagecfg](https://github.com/brookiestein/portagecfg)
+  7. ![PerformanceMeasurer](https://github.com/brookiestein/PerformanceMeasurer)
+  8. ![SystemPowerManager (spm)](https://github.com/brookiestein/spm)
+  9. ![wpa_gtk](https://github.com/brookiestein/wpa_gtk)
 
 <!---
 brookiestein/brookiestein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
