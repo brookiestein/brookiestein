@@ -4,9 +4,9 @@
 - 💞️ I have more knowledge and experience in C and C++, but I'll learn other languages as well.
 - 📫 You can reach me through my email address: this.brayan@proton.me
 - My recent projects:
-  1. ![BtScreenLocker](https://github.com/brookiestein/BtScreenLocker)
-  2. ![TimerAndroid](https://github.com/brookiestein/TimerAndroid)
-  3. ![BitMPlayer](https://github.com/brookiestein/BitMPlayer)
+  1. ![QBitMPlayer](https://github.com/brookiestein/QBitMPlayer)
+  2. ![BtScreenLocker](https://github.com/brookiestein/BtScreenLocker)
+  3. ![TimerAndroid](https://github.com/brookiestein/TimerAndroid)
   4. ![FolderPrinter](https://github.com/brookiestein/FolderPrinter)
   5. ![CheckPatchPanelsAndPorts](https://github.com/brookiestein/CheckPatchPanelsAndPorts)
   6. ![libvector](https://github.com/brookiestein/libvector)
